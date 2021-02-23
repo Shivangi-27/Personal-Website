@@ -1,0 +1,25 @@
+body{
+  background-color: black;
+  color: #b9fffc;
+}
+.one{
+  text-align: center;
+  text-decoration:underline;
+  font-family: "Sofia", sans-serif;
+  font-size: 60px;
+  margin: 20px 0 80px 0
+}
+ul{
+  list-style-type: circle;
+}
+li,p{
+  font-family: cursive;
+  font-size: 18px;
+}
+.second{
+  text-align: center;
+  text-decoration:underline;
+  font-family: "Sofia", sans-serif;
+  font-size: 60px;
+  margin: 50px 0 80px 0
+}

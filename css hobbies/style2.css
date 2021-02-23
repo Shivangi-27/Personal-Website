@@ -1,0 +1,18 @@
+body{
+  background-color: black;
+  color: #f4ff61;
+}
+li{
+  font-family: cursive;
+  font-size: 18px;
+}
+ul{
+  list-style-type: circle;
+}
+div{
+  text-align: center;
+  text-decoration:underline;
+  font-family: "Sofia", sans-serif;
+  font-size: 60px;
+  margin: 20px 0 80px 0
+}
